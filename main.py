@@ -112,7 +112,7 @@ def ai_move(board, depth, maximizer):
             pos += 1
         return 3
 
-    #if depth == 0 or checkgame(board) != 0:
+    # if depth == 0 or checkgame(board) != 0:
         
 
     return board
