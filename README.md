@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/arthurboucard/tictactoe/badge)](https://www.codefactor.io/repository/github/arthurboucard/tictactoe)
+
 # TicTacToe :gear:
 ## :star2: Personal project :
 
